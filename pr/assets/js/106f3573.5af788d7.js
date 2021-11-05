@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[100],{6053:function(e){e.exports=JSON.parse('{"allTagsPath":"/pr/blog/tags","slug":"/pr/blog/tags/career","name":"career","count":2,"permalink":"/pr/blog/tags/career"}')}}]);

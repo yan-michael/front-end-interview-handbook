@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[863],{79:function(e){e.exports=JSON.parse('{"allTagsPath":"/pl/blog/tags","slug":"/pl/blog/tags/interview","name":"interview","count":1,"permalink":"/pl/blog/tags/interview"}')}}]);
